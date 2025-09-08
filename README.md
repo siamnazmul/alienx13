@@ -27,9 +27,9 @@ const siam = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alienx13&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siamnazmul&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alienx13&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siamnazmul&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -38,7 +38,7 @@ const siam = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alienx13&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siamnazmul&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -54,6 +54,6 @@ const siam = {
 
 ⚡ *Currently listening to:* **Lo-fi beats while studying and coding**
 
-![Profile Views](https://komarev.com/ghpvc/?username=alienx13&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=siamnazmul&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
